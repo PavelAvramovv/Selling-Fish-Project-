@@ -1,0 +1,33 @@
+<div class="col-md-12 end-box ">
+       Всички права запазени <b>{$title}</b> &copy;2018 | Developed by {$author}
+    </div>
+    <!-- /.col -->
+    <!--Footer end -->
+    <!--Core JavaScript file  -->
+    <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
+	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	<script src="js/login_register_form.js"></script>
+    <!--bootstrap JavaScript file  -->
+    <script src="js/bootstrap.js"></script>
+    <!--Slider JavaScript file  -->
+    <script src="ItemSlider/js/modernizr.custom.63321.js"></script>
+    <script src="ItemSlider/js/jquery.catslider.js"></script>
+    <script>
+	$(document).ready(function() {
+$(".btn-pref .btn").click(function () {
+    $(".btn-pref .btn").removeClass("btn-primary").addClass("btn-default");
+    // $(".tab").addClass("active"); // instead of this do the below 
+    $(this).removeClass("btn-default").addClass("btn-primary");   
+});
+});
+
+$(function() { $(".project").on('click', function() { $(this).parent().find('.details').slideToggle(300); }); });
+$(function() { $(".project2").on('click', function() { $(this).parent().find('.details2').slideToggle(300); }); });
+$(function() { $(".project3").on('click', function() { $(this).parent().find('.details3').slideToggle(300); }); });
+
+        $(function () {
+            $('#mi-slider').catslider();
+        });
+		</script>
+</body>
+</html>
