@@ -1,4 +1,4 @@
-<h1>Web-applications for selling / buying ornamental fish</h1>
+<h1>Web-applications for selling / buying decorative fish</h1>
 
 <h2>Demo on index page</h2>
 
