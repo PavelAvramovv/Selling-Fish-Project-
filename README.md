@@ -12,6 +12,7 @@
 
 <h2> Demo on add an ad  page </h2>
 <img width="964" alt="" src="https://github.com/PavelAvramovv/Selling-Fish-Project-/blob/master/Smart-Fish%20Demo/Make%20Add.png?raw=true">
+<img width="964" alt="" src="https://github.com/PavelAvramovv/Selling-Fish-Project-/blob/master/Smart-Fish%20Demo/My%20Add.png?raw=true">
 
 <h2> Demo on edit profile page  </h2>
 <img width="964" alt="" src="https://github.com/PavelAvramovv/Selling-Fish-Project-/blob/master/Smart-Fish%20Demo/Edit%20Profile.png?raw=true">
